@@ -1,4 +1,4 @@
-# Nuxt Content
+# Nuxt Content 2
 
 This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
 
@@ -7,3 +7,5 @@ Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[.
 ---
 
 Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+
+Her er der en **fed** skrift
